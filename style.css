@@ -89,3 +89,10 @@ span.price {
   background-color: #ebbc00;
   transition: background-color 0.3s ease-in-out;
 }
+
+.footer{
+  text-align: center; 
+}
+.footer p{
+  padding: 14px 0;
+}
